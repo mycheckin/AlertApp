@@ -1,0 +1,6 @@
+C:\Deepu\Projects\Training Projects\ProjectClinic\ProjectClinic\bin\Debug\ProjectClinic.exe.config
+C:\Deepu\Projects\Training Projects\ProjectClinic\ProjectClinic\bin\Debug\ProjectClinic.exe
+C:\Deepu\Projects\Training Projects\ProjectClinic\ProjectClinic\bin\Debug\ProjectClinic.pdb
+C:\Deepu\Projects\Training Projects\ProjectClinic\ProjectClinic\obj\Debug\ProjectClinic.exe
+C:\Deepu\Projects\Training Projects\ProjectClinic\ProjectClinic\obj\Debug\ProjectClinic.pdb
+C:\Deepu\Projects\Training Projects\ProjectClinic\ProjectClinic\obj\Debug\ProjectClinic.csprojAssemblyReference.cache
